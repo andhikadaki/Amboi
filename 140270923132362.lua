@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/andhikadaki/MAGSO/main/2413927524.lua"))()
